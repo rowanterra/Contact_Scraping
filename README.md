@@ -1,7 +1,7 @@
 # Contact_Scraping
 Acquiring information from website directories using a script. 
 
-# Disclimaer
+# Disclaimer
 This script is intended to be used by researchers needing to reach out to an entire deparment for a research study or pertinent communication. Please do not use this to spam departmental inboxes.
 
 ## Editing the script 
